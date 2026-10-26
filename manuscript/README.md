@@ -1,1 +1,1 @@
-This directory contains the main manuscript, `SMAE.pdf`, and the Supplementary Material, `SupSMA.pdf`.
+This directory contains the main manuscript, SMAE.pdf, and the Supplementary Material, SupSMA.pdf. The results produced by the code are reported in Tables 1–6 in Section 5 of the main manuscript and in Tables S1–S24 and Figure S1 in Section S5 of the Supplementary Material.
