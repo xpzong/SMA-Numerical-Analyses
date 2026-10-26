@@ -17,4 +17,4 @@ real2.R reproduces the results for the second empirical application in the main 
 ### data
 This directory contains pm2.5.csv, the dataset used in the first empirical application in the main manuscript. The dataset used in the second empirical application, ethylene_methane.txt, can be downloaded from the website: https://archive.ics.uci.edu/dataset/322.
 ### output
-
+The results produced by the code are reported in Tables 1–6 in Section 5 of the main manuscript and in Tables S1–S24 and Figure S1 in Section S5 of the Supplementary Material.
